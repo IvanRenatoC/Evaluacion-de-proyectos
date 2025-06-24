@@ -1,0 +1,7 @@
+numpy
+pandas
+numpy_financial
+openai
+matplotlib.pyplot
+seaborn
+warnings
