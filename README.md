@@ -91,7 +91,7 @@ Este proyecto busca entregar **tres niveles de análisis financiero progresivos*
 Instalar dependencias:
 
 ```bash
-pip install numpy pandas numpy-financial matplotlib seaborn
+pip install -r requirements.txt
 
 ## 🤝 Contribuciones
 
