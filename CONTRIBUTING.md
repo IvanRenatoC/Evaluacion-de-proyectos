@@ -14,3 +14,4 @@ Gracias por tu interés en colaborar con este proyecto!
 - Usa Python 3.10+
 - Sigue el formato de los notebooks ya existentes
 - Explica los cambios
+- Ganas de aportar!
